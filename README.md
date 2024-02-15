@@ -6,7 +6,7 @@
 - [Execution time statistics](#Execution-time-statistics)
   - [Old MKL statistics](#Old-MKL-statistics)
   - [New Incremental MKL statistics](#New-Incremental-MKL-statistics)
-
+- [Appendix](#Appendix)
 ## Agenda
 ![Slide2](https://github.com/shivaniRaut/Incremental-Design-for-the-Data-ingestion-and-processing/assets/30024267/edf6f47d-e7eb-46ff-9f59-d13af36eb3cc)
 ## Overview
@@ -25,7 +25,7 @@
 ## New Incremental MKL statistics
 ![Slide11](https://github.com/shivaniRaut/Incremental-Design-for-the-Data-ingestion-and-processing/assets/30024267/33b93965-9470-439f-b35b-962ab993ca37)
 ![Slide12](https://github.com/shivaniRaut/Incremental-Design-for-the-Data-ingestion-and-processing/assets/30024267/6264eabd-499d-44c3-a8fc-279e9e069e35)
-### Appendix
+## Appendix
 ![Slide13](https://github.com/shivaniRaut/Incremental-Design-for-the-Data-ingestion-and-processing/assets/30024267/252e0024-337b-479d-b341-7acf1c172230)
 ![Slide14](https://github.com/shivaniRaut/Incremental-Design-for-the-Data-ingestion-and-processing/assets/30024267/b6bb0a4d-9643-4ec2-b035-4a5ff085812f)
 ![Slide15](https://github.com/shivaniRaut/Incremental-Design-for-the-Data-ingestion-and-processing/assets/30024267/9b70395b-e37a-4878-bf09-284464b22ccb)
